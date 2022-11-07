@@ -21,8 +21,10 @@ rm -rf b-update-
 
 git clone https://github.com/DH-Alamin/b-update-
 
+ls
+
 cd b-update-
 
 ls
 
-python new-cloning.py
+python DH.py
